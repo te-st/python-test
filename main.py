@@ -6,4 +6,5 @@ def main(msg):
 def test():
 	print("new branch")
 
+test()
 main("Hello People")
