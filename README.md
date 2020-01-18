@@ -1,2 +1,2 @@
 # python-test
-This is an example projectt to demonstrate the use of git on Zorin.
+This is an example project to demonstrate the use of git on Zorin.
